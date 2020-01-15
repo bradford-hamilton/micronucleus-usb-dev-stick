@@ -1,4 +1,4 @@
-Partlist exported from /Users/bradford/Downloads/micronucleus_usb_dev_stick copy/micronucleus_usb_dev_stick.sch at 1/14/20 4:32 PM
+Partlist exported from /Users/bradford/Downloads/digispark_full_custom/digispark_full_custom.sch at 1/14/20 4:09 PM
 
 Qty Value          Device            Package        Parts    Description                                        PROD_ID   
 2                  LED0603           LED-0603       LED, PWR LEDs                                                         
@@ -7,10 +7,10 @@ Qty Value          Device            Package        Parts    Description        
 1   0.1uf          CAP0402-CAP       0402-CAP       C1       Capacitor                                                    
 2   1K             RESISTOR0402-RES  0402-RES       R4, R5   Resistor                                                     
 1   1K5            RESISTOR0402-RES  0402-RES       R3       Resistor                                                     
-2   3.6 Zener      DIODE-ZENER-BZT52 SOD-323        D1, D2   Zener Diode                                                  
+2   3.6 Zener      DIODE-ZENER-BZT52 SOD-323        D1, D2   part# BZT52C3V6-HE3-08                                                  
 1   4.7uf          CAP0805           0805           C2       Capacitor                                                    
 2   66.5R          RESISTOR0402-RES  0402-RES       R1, R2   Resistor                                                     
-1   ATTINY85       ATTINY45          SO08-EIAJ      IC1      Atmel ATTiny45                                               
+1   ATTINY85       ATTINY85          SO08-EIAJ      IC1      Atmel ATTiny85                                               
 1   MBR0520LT      MBR0520LT         SOD123         D3       SCHOTTKY BARRIER RECTIFIER                                   
 1   MC78M05BDTRKG  LP2950CDT-3.0     DPACK          V1       Source: http://cache.national.com/ds/LP/LP2950.pdf           
-1   USB_A_SMT_MALE USB_A_SMT_MALE    USB-A-SMT-MALE J1       USB-A Connector                                    CONN-11499
+1   USB_A_SMT_MALE USB_A_SMT_MALE    USB-A-SMT-MALE J1       https://www.sparkfun.com/products/437              CONN-11499
