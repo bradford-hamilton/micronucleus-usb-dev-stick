@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-01-18T00:32:20Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "micronucleus_usb_dev_stick_no_pins"
+        },
+        "Owner": "bradford lamson-scribner <brad.lamson@gmail.com>",
+        "Size": {
+            "X": 19.99,
+            "Y": 17.77
+        }
+    }
+}

@@ -1,0 +1,13 @@
+Partlist exported from /Users/bradford/Downloads/micronucleus_usb_dev_stick_no_pins/micronucleus_usb_dev_stick_no_pins.sch at 1/17/20 5:32 PM
+
+Qty Value          Device            Package        Parts    Description                PROD_ID   
+2                  LED0603           LED-0603       LED, PWR LEDs                                 
+1   0.1uf          CAP0402-CAP       0402-CAP       C1       Capacitor                            
+2   1K             RESISTOR0402-RES  0402-RES       R4, R5   Resistor                             
+1   1K5            RESISTOR0402-RES  0402-RES       R3       Resistor                             
+2   3.6 Zener      DIODE-ZENER-BZT52 SOD-323        D1, D2   Zener Diode                          
+1   4.7uf          CAP0805           0805           C2       Capacitor                            
+2   66.5R          RESISTOR0402-RES  0402-RES       R1, R2   Resistor                             
+1   ATTINY85       ATTINY45          SO08-EIAJ      IC1      Atmel ATTiny45                       
+1   MBR0520LT      MBR0520LT         SOD123         D3       SCHOTTKY BARRIER RECTIFIER           
+1   USB_A_SMT_MALE USB_A_SMT_MALE    USB-A-SMT-MALE J1       USB-A Connector            CONN-11499

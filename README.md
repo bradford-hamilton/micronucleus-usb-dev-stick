@@ -5,8 +5,18 @@ The ATtiny85 must be flashed with [micronucleus](https://github.com/micronucleus
 
 __Status__: Just ordered a handful of them off [PCBWay](https://www.pcbway.com/). Will update if they work!
 
-#### Board v1
-![board](images/board.png)
+___
 
-#### Schematic v1
-![board](images/schematic.png)
+#### Board with pins v1
+![board](images/board_with_pins.png)
+
+#### Schematic with pins v1
+![board](images/schematic_with_pins.png)
+
+___
+
+#### Board with pins v1
+![board](images/board_without_pins.png)
+
+#### Schematic with pins v1
+![board](images/schematic_without_pins.png)
