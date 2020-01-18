@@ -15,8 +15,8 @@ ___
 
 ___
 
-#### Board with pins v1
+#### Board without pins v1
 ![board](images/board_without_pins.png)
 
-#### Schematic with pins v1
+#### Schematic without pins v1
 ![board](images/schematic_without_pins.png)
