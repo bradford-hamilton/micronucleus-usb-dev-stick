@@ -3,7 +3,7 @@ First go at building a usb development board using the [ATtiny85](https://www.mi
 
 The ATtiny85 must be flashed with [micronucleus](https://github.com/micronucleus/micronucleus) (occupies 2kB out of the 8kB flash) to have the ability to be compatible with Arduino's IDE (specifically to be used as a Digispark board). Micronucleus implements [V-USB](https://www.obdev.at/products/vusb/index.html) which is a software-only implementation of a low-speed USB device. Created on [Eagle](https://www.autodesk.com/products/eagle/free-download). Project includes board (.brd), schematic (.sch), a BOM, and all gerber & drill files.
 
-__Status__: Just ordered a handful of them off [PCBWay](https://www.pcbway.com/). Will update if they work!
+__Status__: Just ordered a handful of the "Board with pins v1" off [PCBWay](https://www.pcbway.com). Will update if they work!
 
 ___
 
